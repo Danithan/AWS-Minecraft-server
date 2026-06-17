@@ -78,10 +78,6 @@ O padrão de infraestrutura (EC2 + Security Group + processo persistente) genera
 - Aplicar conceitos de redes, segurança e otimização de recursos
 - Transformar o aprendizado em um template público, reaplicável e documentado
 
-## 📄 Currículo e Portfólio
-
-Quer usar este projeto em busca de emprego? [`docs/resume-guide.md`](docs/resume-guide.md) tem exemplos prontos de bullets de currículo, post de LinkedIn e respostas estruturadas para entrevista, baseados na experiência real documentada aqui.
-
 ## 📜 Licença
 
 [MIT](LICENSE)
